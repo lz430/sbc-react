@@ -1,2 +1,4 @@
 *.json
 img/
+node_modules/
+yarn.lock
